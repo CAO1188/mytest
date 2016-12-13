@@ -6,3 +6,4 @@ Git is free software.
 Git is free software distributed under the GPL.
 I love git.
 YES 1
+Git has a mutable index called stage.
