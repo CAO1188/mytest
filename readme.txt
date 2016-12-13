@@ -9,3 +9,4 @@ YES 1
 Git has a mutable index called stage.
 Git tracks changes
 test
+success
